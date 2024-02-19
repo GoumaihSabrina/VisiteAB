@@ -1,0 +1,15 @@
+/Users/macbookair/VisiteAB/bin/Debug/net7.0/VisiteAB
+/Users/macbookair/VisiteAB/bin/Debug/net7.0/VisiteAB.deps.json
+/Users/macbookair/VisiteAB/bin/Debug/net7.0/VisiteAB.runtimeconfig.json
+/Users/macbookair/VisiteAB/bin/Debug/net7.0/VisiteAB.dll
+/Users/macbookair/VisiteAB/bin/Debug/net7.0/VisiteAB.pdb
+/Users/macbookair/VisiteAB/obj/Debug/net7.0/VisiteAB.csproj.AssemblyReference.cache
+/Users/macbookair/VisiteAB/obj/Debug/net7.0/VisiteAB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/VisiteAB/obj/Debug/net7.0/VisiteAB.AssemblyInfoInputs.cache
+/Users/macbookair/VisiteAB/obj/Debug/net7.0/VisiteAB.AssemblyInfo.cs
+/Users/macbookair/VisiteAB/obj/Debug/net7.0/VisiteAB.csproj.CoreCompileInputs.cache
+/Users/macbookair/VisiteAB/obj/Debug/net7.0/VisiteAB.dll
+/Users/macbookair/VisiteAB/obj/Debug/net7.0/refint/VisiteAB.dll
+/Users/macbookair/VisiteAB/obj/Debug/net7.0/VisiteAB.pdb
+/Users/macbookair/VisiteAB/obj/Debug/net7.0/VisiteAB.genruntimeconfig.cache
+/Users/macbookair/VisiteAB/obj/Debug/net7.0/ref/VisiteAB.dll
