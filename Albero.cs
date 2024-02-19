@@ -1,4 +1,5 @@
-public class Albero{
+public class Albero
+{
   public Node radice;
   List<Node> coda = new List<Node>();//questa lista mi serve per la coda degli elementi
    
@@ -27,7 +28,7 @@ while(coda.Count > 0){
     coda.Add(nodoCorrente.nododx);
 
   }
-  if(nodoCorrente.nododx != null){
+  if(nodoCorrente.nodosx != null){
     coda.Add(nodoCorrente.nodosx);
   }
 
